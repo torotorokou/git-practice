@@ -1,1 +1,2 @@
 create new filegit 
+これは大丈夫か？
